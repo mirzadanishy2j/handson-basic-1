@@ -1,5 +1,4 @@
 First configuration
 Second
 Third
-Feature-1
-Fourth
+Data in remote repo
