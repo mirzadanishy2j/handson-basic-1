@@ -1,5 +1,5 @@
 public class F1 {
 	public static void main(String[] args) {
-		System.out.print("Hello github");
+		System.out.print("Hello github from Intellij");
 	}
 }
