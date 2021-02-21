@@ -1,5 +1,5 @@
 public class F1 {
 	public static void main(String[] args) {
-		System.out.print("Hello git");
+		System.out.print("Hello github - second user");
 	}
 }
